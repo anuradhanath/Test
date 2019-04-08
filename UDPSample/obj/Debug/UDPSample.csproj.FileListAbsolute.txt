@@ -1,0 +1,6 @@
+C:\UBS\Dev\Samples\UDPSample\UDPSample\bin\Debug\UDPSample.exe.config
+C:\UBS\Dev\Samples\UDPSample\UDPSample\bin\Debug\UDPSample.exe
+C:\UBS\Dev\Samples\UDPSample\UDPSample\bin\Debug\UDPSample.pdb
+C:\UBS\Dev\Samples\UDPSample\UDPSample\obj\Debug\UDPSample.exe
+C:\UBS\Dev\Samples\UDPSample\UDPSample\obj\Debug\UDPSample.pdb
+C:\UBS\Dev\Samples\UDPSample\UDPSample\obj\Debug\UDPSample.csprojResolveAssemblyReference.cache
